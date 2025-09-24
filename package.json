@@ -1,0 +1,12 @@
+{
+  "name": "aws-cdk-enterprise-infra",
+  "version": "1.0.0",
+  "description": "Production-ready AWS infrastructure using CDK with TypeScript, featuring VPC, Lambda, API Gateway, and S3 with comprehensive testing and security best practices.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
