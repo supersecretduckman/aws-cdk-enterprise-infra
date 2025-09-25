@@ -204,6 +204,50 @@ For a **production environment**, you would typically:
 
 
 ## 📷 Screenshots
+Below are step-by-step screenshots demonstrating the infrastructure build, CI/CD pipeline, and resource validation.
+
+### 1. Development & CI/CD
+
+![npm-test](public/npm-test.JPG)Local tests passing; showing tests running locally
+
+![npm-deploy](public/npm-deploy.JPG)Local CDK Deploy; showing CDK deploying locally.
+
+![ci-cd](public/ci-cd.JPG)GitHub Actions workflow running (green)
+
+![build-deploy](public/build-deploy.JPG)GitHub Actions build + deploy logs
+
+### 2. Infrastructure Provisioned
+
+![cloudform](public/cloudform-stack.JPG)CloudFormation stack details (infrastructure successfully deployed)
+
+![vpc](public/vpc-cdk.JPG)VPC created by VPC
+
+![subnet](public/subnets.JPG)Subnet layout
+
+![nat-gw](public/nat-gw.JPG)Showing Zero NAT Gateway provisioned
+
+### 3. Lambda + API Gateway
+
+![lambda](public/lambda-func.JPG)Lambda function overview in AWS Console
+
+![lambda](public/lambda-graph.JPG) ![lambda](public/lambda-graph2.JPG)Monitoring tab (invocation graphs)
+
+![api-gw](public/api-gateway.JPG)API Gateway endpoint details
+
+![curl-api](public/curl-api-gw.JPG)Local curl hitting the API Gateway endpoint
+
+### 4. Validation (Logs + Storage)
+
+![logs](public/cloudwatch-logs.JPG)CloudWatch logs showing event + “Hello from Lambda!!”
+
+![s3](public/s3-console-upload.JPG)S3 console showing uploaded object
+
+![s3](public/s3-terminal-upload.JPG)CLI verification of uploaded S3 file.
+
+⚡ This:
+- Shows CI/CD worked.
+- Proves infra resources exist.
+- Confirms Lambda + API Gateway + S3 + CloudWatch are functional.
 
 
 ## 🧹 Cleanup
