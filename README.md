@@ -1,7 +1,6 @@
 # AWS CDK Enterprise Infrastructure
 
-This project provisions a serverless enterprise-grade infrastructure using AWS CDK
- with TypeScript.
+This project provisions a serverless enterprise-grade infrastructure using AWS CDK with TypeScript.
 It implements a Lambda API (exposed via API Gateway), persistent storage (S3), and networking (VPC + subnets) — all automated and deployed via GitHub Actions CI/CD.
 
 ---
@@ -24,7 +23,10 @@ aws-cdk-enterprise-infra/
 ├── .github/workflows/       # CI/CD pipelines
 │   └── ci-cd.yml
 ├── package.json
+├── public/
+├── cdk.json
 ├── tsconfig.json
+├── .gitignore
 └── README.md
 ```
 
@@ -202,6 +204,7 @@ For a **production environment**, you would typically:
 - Add CloudFront + WAF for production security.
 - Introduce parameterized environments (dev/stage/prod) when moving beyond safe defaults.
 
+---
 
 ## 📷 Screenshots
 Below are step-by-step screenshots demonstrating the infrastructure build, CI/CD pipeline, and resource validation.
@@ -271,6 +274,7 @@ This project demonstrates the architecture and IaC workflow while keeping costs 
 
 In a production setup, this infra would use multiple NAT Gateways and set S3 buckets to RETAIN instead of DESTROY. For this demo, I configured cost-conscious defaults.
 
+---
 ## 🤝 Contribution Guidelines
 We welcome contributions! Please follow these steps:
 1. Fork the repository

@@ -156,3 +156,5 @@ cdk.context.json
 # OS cruft
 .DS_Store
 *.log
+
+trust-policy.json
